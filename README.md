@@ -16,7 +16,7 @@
 1. [MIMO Channel Estimation using Score-Based (Diffusion) Generative Models](https://github.com/utcsilab/score-based-channels)
 2. [Multi-Cell Multi-Beam Prediction Using Auto-Encoder LSTM for mmWave Systems](https://github.com/shastpi/mmWave-ray-tracer-dataset)
 
-   - only datset, no code
+   - only dataset, no code
 
 ## Datasets
 
@@ -29,6 +29,6 @@
 
 ## Recent tasks
 
-- []  将信道估计数据集转换为GluonTS格式
+- [ ]  将信道估计数据集转换为GluonTS格式
 
-- [] 修改TimeGrad模型中的Unet结构和RNN部分
+- [ ] 修改TimeGrad模型中的Unet结构和RNN部分
