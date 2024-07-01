@@ -6,6 +6,7 @@
 2. [TimeSeriesResearch](https://github.com/BTDLOZC-SJTU/TimeSeriesResearch)
 3. [CSDI](https://github.com/ermongroup/CSDI)
 4. [GluonTS](https://github.com/awslabs/gluonts)
+5. [ScoreGradPred](https://github.com/yantijin/ScoreGradPred)
 
 ## Diffusion
 
@@ -21,10 +22,13 @@
 2. [Multi-Cell Multi-Beam Prediction Using Auto-Encoder LSTM for mmWave Systems](https://github.com/shastpi/mmWave-ray-tracer-dataset)
 
    - only dataset, no code
+3.  [KalmanNet](https://github.com/KalmanNet/KalmanNet_TSP)
 
 ## Datasets
 
 1. [Multivariate-time-series-data](https://github.com/laiguokun/multivariate-time-series-data)
+
+2. [Machine Learning Datasets](https://github.com/jbrownlee/Datasets)
 
 ## MYCode for TSF
 
