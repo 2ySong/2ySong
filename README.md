@@ -34,9 +34,8 @@
 
 1. [myDL](https://github.com/2ySong/myDL)
 2. [TimeGrad-re](https://github.com/2ySong/TimeGrad-re)
+3. [CSDI-re](https://github.com/2ySong/CSDI-re)
 
 ## Recent tasks
 
-- [ ] 将信道估计数据集转换为GluonTS格式
-
-- [ ] 修改TimeGrad模型中的Unet结构和RNN部分
+- [ ] 将
