@@ -1,7 +1,10 @@
 
 
 
-# <img src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667"  width="50" /> Paper With Code <img src="https://swg.notion.pet/s/7d8ff72c666d22ae02ee0b3266fbf4a8" width="50"/>
+# <img src="svg/github-dy.svg"  width="50" /> Paper With Code <img src="https://swg.notion.pet/s/7d8ff72c666d22ae02ee0b3266fbf4a8" width="50"/>
+
+<img src="svg/e.svg" width="50"/>
+<img src="gif/1.gif" width="100"/>
 
 ## AI for TSF
 
