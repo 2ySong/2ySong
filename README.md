@@ -3,8 +3,7 @@
 
 # <img src="svg/github-dy.svg"  width="50" /> Paper With Code <img src="https://swg.notion.pet/s/7d8ff72c666d22ae02ee0b3266fbf4a8" width="50"/>
 
-<img src="svg/e.svg" width="50"/>
-<img src="gif/1.gif" width="100"/>
+<img src="svg/e.svg" width="50"/><img src="gif/1.gif" width="100"/>
 
 ## AI for TSF
 
