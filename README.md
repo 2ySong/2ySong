@@ -1,7 +1,7 @@
 
 
 
-# <img src="svg/github-dy.svg"  width="50" /> Paper With Code <img src="gif/xiaochou.gif" width="60"/>
+# <img src="svg/github-dy.svg"  width="50" /> Paper With Code
 
 ## <img src="gif/gangbi.gif" width="50">AI for TSF
 
@@ -10,6 +10,7 @@
 3. [CSDI](https://github.com/ermongroup/CSDI)
 4. [GluonTS](https://github.com/awslabs/gluonts)
 5. [ScoreGradPred](https://github.com/yantijin/ScoreGradPred)
+6. [LSTNet](https://github.com/laiguokun/LSTNet)
 
 ## <img src="gif/1.gif" width="100"/>Diffusion
 
@@ -18,6 +19,8 @@
 2. [Dpm-solver](https://github.com/LuChengTHU/dpm-solver)
 
 3. [ResShift](https://github.com/zsyOAOA/ResShift)
+
+4. [Diffusion-Pytorch](https://github.com/yangqy1110/Diffusion-Models)
 
 ## <img src="gif/xl.gif" width="60"/>Communication
 
@@ -36,9 +39,13 @@
 ## MYCode for TSF
 
 1. [myDL](https://github.com/2ySong/myDL)
+
 2. [TimeGrad-re](https://github.com/2ySong/TimeGrad-re)
 3. [CSDI-re](https://github.com/2ySong/CSDI-re)
 
-## Recent tasks
 
-- [ ] 将
+
+## Tools
+1. [font-xwwk](https://github.com/MichaelC001/Consolas-Nerd-LXGW-Wenkai-Mono)
+
+2. 
